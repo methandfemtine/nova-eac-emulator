@@ -55,6 +55,10 @@ scsi0:0.vendorID = "Tencent"
 
 # 3. Prepare Linux side
 
+## Install real linux :/
+In the top left it should say something like "Install Linux Mint". click that and go through it and finish it.
+if it doesnt, then you already have it. go to next step.
+
 ## Install steam
 open terminal
 install flatpack - sudo apt install flatpak
