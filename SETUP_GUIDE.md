@@ -55,6 +55,14 @@ scsi0:0.vendorID = "Tencent"
 
 # 3. Prepare Linux side
 
+## Install steam
+open terminal
+install flatpack - sudo apt install flatpak
+install steam - flatpak install flathub com.valvesoftware.Steam 
+open steam. (if it says an erorr do the following)
+install steam devices - sudo apt install steam-devices
+
+
 ## Install VRChat
 
 Install steam app on your linux and open settings and enable `Steam Play` for all titles.
