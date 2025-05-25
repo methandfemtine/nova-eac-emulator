@@ -1,11 +1,11 @@
-# EasyAntiCheat Emulator on VRChat
+# EasyAntiCheat Emulator on VRChat | novaxp version
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0liteyear/vrc-eac-emulator/blob/master/LICENSE)
-[![Discord](https://img.shields.io/discord/1361492536752865392)](https://discord.gg/yRUfEwBuYv)
+[![Discord](discord.gg/novaxp)
 
 Redirect all EAC communications required on Windows to Linux
 
-Join our community server: https://discord.gg/yRUfEwBuYv
+Join our community server: [discord](https://discord.gg/novaxp)
 
 > [!IMPORTANT]
 > This project is for educational purposes only. I am not responsible for any damage caused by this project.
