@@ -112,18 +112,6 @@ Then please follow the steps below.
 
 Just copy the `EOSSDK-Win64-Shipping.dll` you built to "VRChat\VRChat_Data\Plugins\x86_64" directory.
 
-Then launch VRChat.exe directly from explorer and you will get generated configuration file named "config.json". 
-Please edit the host property to your local address of linux
-```
-{
-    "ip": "192.168.146.129", <-- Here
-    "ports": {
-        "http": 7778,
-        "tcp": 7777
-    }
-}
-```
-
 And you are ready to go! 🎉
 
 Launch “VRChat.exe” directly on Windows or from Steam on Linux
