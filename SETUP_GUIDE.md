@@ -1,12 +1,14 @@
-# 1. Introduction
+# Downloads
+[VMWare]([https://www.vmware.com/](https://files02.tchspt.com/down/VMware-player-17.6.3-24583834.exe) 
 
-You will need a software can host a virtual machine to run linux side of the this project.
-Please use [VMWare](https://www.vmware.com/) for this purpose 
+the reason for the mulitple download links are because of location
+
+[Linux mint](https://mirror.ette.biz/linuxmint/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso) (america 1) 
+[Linux mint](https://mirrors.seas.harvard.edu/linuxmint/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso) (america 2)
+[other locations](https://linuxmint.com/edition.php?id=319)
 
 **WE DO NOT SUPPORT FOR ANTI-VM DETECTION BYPASS FOR OTHER THAN VMWARE!**
 
-After completing setup any vm, please install any linux distro you want to use on it.
-We are going to use [Linux Mint](https://linuxmint.com/) for this guide.
 
 # 2. Setting up Virtual-Machine
 
