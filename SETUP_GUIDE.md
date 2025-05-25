@@ -61,10 +61,10 @@ if it doesnt, then you already have it. go to next step.
 
 ## Install steam
 open terminal
-install flatpack - sudo apt install flatpak
-install steam - flatpak install flathub com.valvesoftware.Steam 
-open steam. (if it says an erorr do the following)
-install steam devices - sudo apt install steam-devices
+```install flatpack - sudo apt install flatpak```
+```install steam - flatpak install flathub com.valvesoftware.Steam ```
+```open steam. (if it says an erorr do the following)```
+```install steam devices - sudo apt install steam-devices```
 
 
 ## Install VRChat
