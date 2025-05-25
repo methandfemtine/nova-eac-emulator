@@ -1,5 +1,5 @@
 # Downloads
-[VMWare]([https://www.vmware.com/](https://files02.tchspt.com/down/VMware-player-17.6.3-24583834.exe) 
+[VMWare]([https://www.vmware.com/](https://files02.tchspt.com/down/VMware-player-17.6.3-24583834.exe))
 
 the reason for the mulitple download links are because of location
 
