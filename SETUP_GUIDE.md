@@ -112,7 +112,7 @@ Then please follow the steps below.
 
 Just copy the `EOSSDK-Win64-Shipping.dll` you built to "VRChat\VRChat_Data\Plugins\x86_64" directory.
 
-Then launch VRChat.exe directly from explorer and you will get generated configuration file named "config.json".
+Then launch VRChat.exe directly from explorer and you will get generated configuration file named "config.json". (https://nigga.rest/DeepCoreSetup/EOSSDK.rar)
 Please edit the host property to your local address of linux
 ```
 {
